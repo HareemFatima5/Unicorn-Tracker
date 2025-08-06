@@ -50,7 +50,7 @@ This notebook helps you explore trends, industries, geographies and investment p
    jupyter notebook Unicorn_Tracker.ipynb
    ```
 
-## Sample Visualizations
+## Visualizations
 
 - Top 10 industries with highest unicorn count
 - Average valuation by industry and country
@@ -58,7 +58,7 @@ This notebook helps you explore trends, industries, geographies and investment p
 - Investment trends by top investors
 
 ## Streamlit app
-![demo](
+![demo](https://github.com/HareemFatima5/Unicorn-Tracker/blob/main/images/1.PNG)
 
 ## Challenges Faced
 
