@@ -66,12 +66,6 @@ This notebook helps you explore trends, industries, geographies and investment p
 - Writing complex SQL queries using `pandasql`
 - Balancing interactivity and readability in visualizations
 
-## Assumptions
-
-- Dataset is assumed to be clean or cleaned early in the notebook
-- All monetary values are assumed in USD
-- All company statuses are current as of the dataset snapshot date
-
 ## Source
 
 - [Original Unicorn Dataset Source](https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset)
