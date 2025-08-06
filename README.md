@@ -26,11 +26,11 @@ This notebook helps you explore trends, industries, geographies and investment p
 |--------------|----------------------------------|
 | Python       | Data analysis and scripting      |
 | Pandas       | Data handling and manipulation   |
-| Pandasql     | SQL-style queries on DataFrames  |
+| Pandasql     | SQL style queries on DataFrames  |
 | Matplotlib   | Data visualization               |
 | Seaborn      | Statistical plots                |
 | Plotly       | Interactive charts               |
-| JupyterLab   | Notebook-based development       |
+| JupyterLab   | Notebook based development       |
 
 ## How to Use
 
