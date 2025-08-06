@@ -42,7 +42,7 @@ This notebook helps you explore trends, industries, geographies and investment p
 
 2. Install required libraries:
    ```bash
-   pip install pandas pandasql matplotlib seaborn plotly
+   ! pip install pandas pandasql matplotlib seaborn plotly
    ```
 
 3. Launch the notebook:
